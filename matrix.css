@@ -1,0 +1,10 @@
+#wrapper{
+    border: solid 2px black;
+    width: 20%;
+    text-align: center;
+    width: fit-content;
+}
+td{
+    width: 100px;
+    height: 100px;
+}
